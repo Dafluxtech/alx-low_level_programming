@@ -3,3 +3,5 @@
 1 a program that prints the last digit of a random number and stores it in a variable which changes each time you run the program.
 
 2 a program that prints the alphabet in lowercase, followed by a new line.
+
+3 a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
