@@ -5,3 +5,5 @@
 2 a program that prints the alphabet in lowercase, followed by a new line.
 
 3 a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+4 a program that Print all the letters except q and e.
