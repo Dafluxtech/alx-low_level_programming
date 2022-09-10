@@ -9,3 +9,5 @@
 4 a program that Print all the letters except q and e.
 
 5 a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+6 a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
