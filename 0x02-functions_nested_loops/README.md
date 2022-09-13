@@ -14,4 +14,8 @@ What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 
 What are header files and how to to use them with #include
 
+Tasks:-
 
+0 a program that prints _putchar, followed by a new line.
+
+1 a function that prints the alphabet, in lowercase, followed by a new line.
