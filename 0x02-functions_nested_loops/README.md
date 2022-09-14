@@ -29,3 +29,5 @@ Tasks:-
 5  a function that checks for alphabetic character.
 
 6 a function that prints the sign of a number.
+
+7 a function that computes the absolute value of an integer.
