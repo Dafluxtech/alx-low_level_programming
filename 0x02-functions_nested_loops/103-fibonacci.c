@@ -11,9 +11,9 @@ int main(void)
 	long int j = i;
 	long int k = i + j;
 
-	while (c < 4000000)
+	while (k < 4000000)
 	{
-		if (c % 2 == 0)
+		if (k % 2 == 0)
 		{
 			counter += k;
 		}
