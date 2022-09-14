@@ -27,3 +27,5 @@ Tasks:-
 4 a function that checks for lowercase character.
 
 5  a function that checks for alphabetic character.
+
+6 a function that prints the sign of a number.
