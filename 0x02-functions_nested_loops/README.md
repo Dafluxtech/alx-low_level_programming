@@ -25,3 +25,5 @@ Tasks:-
 3  a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
 4 a function that checks for lowercase character.
+
+5  a function that checks for alphabetic character.
