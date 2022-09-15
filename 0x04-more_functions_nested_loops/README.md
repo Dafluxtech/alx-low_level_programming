@@ -36,3 +36,5 @@ TASKS:-
 8 a function that prints a square, followed by a new line.
 
 9  a program that prints the numbers from 1 to 100, followed by a new line, for multiples of 3 prints Fizz, instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+
+10 a function that prints a triangle, followed by a new line.
