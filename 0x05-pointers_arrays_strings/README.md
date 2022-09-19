@@ -13,4 +13,6 @@ Scope of variables.
 
 TASKS:-
 
-0  a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+0 a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+
+1 a function that swaps the values of two integers.
