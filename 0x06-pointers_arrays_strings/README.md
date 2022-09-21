@@ -14,3 +14,7 @@ Scope of variables.
 TASKS: -
 
 0 a function that concatenates two strings.
+
+1 a function that concatenates two strings _strncat function is similar to the _strcat function, except that it will use at most n bytes from src.
+
+
