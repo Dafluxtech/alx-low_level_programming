@@ -17,4 +17,4 @@ TASKS: -
 
 1 a function that concatenates two strings _strncat function is similar to the _strcat function, except that it will use at most n bytes from src.
 
-
+2 a function that copies a string.
