@@ -30,3 +30,5 @@ TASKS: -
 7 a function that encodes a string into 1337.
 
 8 a function that encodes a string using rot13.
+
+9  a function that prints an integer.
