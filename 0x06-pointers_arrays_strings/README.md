@@ -34,3 +34,5 @@ TASKS: -
 9  a function that prints an integer.
 
 10 code adjustment
+
+11 a function that adds two numbers.
