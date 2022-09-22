@@ -20,3 +20,5 @@ TASKS: -
 2 a function that copies a string.
 
 3 a function that compares a string.
+
+4 a function that reverses the content of an array of integers.
