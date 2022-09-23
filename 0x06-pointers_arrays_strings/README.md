@@ -36,3 +36,5 @@ TASKS: -
 10 code adjustment
 
 11 a function that adds two numbers.
+
+12  a function that prints a buffer.
