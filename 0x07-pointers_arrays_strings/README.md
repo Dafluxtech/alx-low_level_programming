@@ -55,3 +55,5 @@ TASKS:-
 	N.B:- The standard library provides a similar function: strstr. Run man strstr to learn more.
 
 
+6 a function that prints the chess board
+	Prototype: void print_chessboard(char (*a)[8])
