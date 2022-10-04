@@ -16,18 +16,14 @@ char *str_concat(char *s1, char *s2)
 	int i = 0;
 	char *ptr;
 
-	if (s1 == NULL)
-		s1 = "";
-	if (s2 == NULL)
-		s2 = "";
+	if (s1 == NULL || s2 == NULL)
+		s1 = s2 = "";
 
-	for (first = 0; first <= *s1;)
+	for (first = 0; first <= *s1; first++)
 	{
-		first++;
 	}
-	for (second = 0; second <= *s2;)
+	for (second = 0; second <= *s2; second++)
 	{
-		second++;
 	}
 
 	ptr = malloc(sizeof(char) * (first + second + 1));
