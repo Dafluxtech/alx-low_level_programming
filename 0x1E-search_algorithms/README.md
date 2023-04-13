@@ -47,7 +47,7 @@
 
 
 
-## Tests :light_check_mark:
+## Tests :check_mark:
 
 * [tests](./tests): Folder of test files for all tasks.
 ## Helper Files :raised_hands:
